@@ -2,30 +2,16 @@
 
 Download it here : https://play.google.com/store/apps/details?id=com.bear.and.deer.engineer.CircleRun
 
-Welcome to a world of fast-paced action and reflex-testing challenges! Get ready to embark on an exciting 2D adventure where you take control of a nimble circle and steer it through a maze of obstacles. Your mission is simple: avoid the moving walls and test your precision, timing, and agility to the fullest.
+I'm thrilled to announce the launch of "Circle Run," a captivating mobile game now available on the Android platform, and I couldn't have done it without the incredible talent and collaboration of Antonio Luputi(antonio.luputi@gmail.com)! 🙌
 
-**Gameplay:**
-- Control a dynamic circle with smooth touch.
-- Navigate your way through a series of challenging obstacles that resemble moving walls.
-- Survive for as long as you can while the game becomes progressively more difficult.
-- Rack up coins as you master the art of dodging and weaving through the obstacles.
+🟣 What's "Circle Run" all about?
+In this addictive arcade game, players take control of a nimble circle, navigating it through a maze of relentless, moving walls. The goal? Survive as long as possible, collect rewards, unlock exciting skins, and enjoy optional ads that enhance the gaming experience.
 
-**Achieve the Highest Score:**
-- Compete with friends and players from around the world to see who can achieve the highest score.
-- Challenge yourself to beat your own record and reach new heights.
-- Show off your gaming skills and rise through the ranks of the global leaderboard.
+🔵 Key Features:
 
-**Easy to Play, Hard to Master:**
-- Simple controls make it easy for anyone to pick up and play.
-- But be warned, mastering this game takes practice, patience, and lightning-fast reflexes.
-
-**Immersive Soundtrack:**
-- Enjoy an immersive soundtrack that keeps the adrenaline pumping as you dodge and weave through obstacles.
-
-**Experience Endless Fun:**
-- With endless levels and challenges, this game offers hours of entertainment and excitement.
-- Each playthrough is a unique experience, making every game session fresh and engaging.
-
-
-
-
+🎮 Intuitive Controls: Easy-to-master touch controls for players of all skill levels.
+🌟 Endless Challenge: Test your reflexes and strategy as the game becomes progressively harder.
+💎 Skins Galore: Personalize your circle with a range of stunning skins from the in-game shop.
+📺 Ad Integration: Watch ads for bonuses and power-ups without interrupting gameplay.
+🏆 Leaderboards & Achievements: Compete globally and earn bragging rights.
+🎵 Dynamic Soundtrack: Immerse yourself in the game's energetic music.
