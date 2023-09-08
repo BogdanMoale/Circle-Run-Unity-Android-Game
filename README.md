@@ -9,9 +9,9 @@ In this addictive arcade game, players take control of a nimble circle, navigati
 
 🔵 Key Features:
 
-🎮 Intuitive Controls: Easy-to-master touch controls for players of all skill levels.
-🌟 Endless Challenge: Test your reflexes and strategy as the game becomes progressively harder.
-💎 Skins Galore: Personalize your circle with a range of stunning skins from the in-game shop.
-📺 Ad Integration: Watch ads for bonuses and power-ups without interrupting gameplay.
-🏆 Leaderboards & Achievements: Compete globally and earn bragging rights.
-🎵 Dynamic Soundtrack: Immerse yourself in the game's energetic music.
+🎮 Intuitive Controls: Easy-to-master touch controls for players of all skill levels.<br>
+🌟 Endless Challenge: Test your reflexes and strategy as the game becomes progressively harder.<br>
+💎 Skins Galore: Personalize your circle with a range of stunning skins from the in-game shop.<br>
+📺 Ad Integration: Watch ads for bonuses and power-ups without interrupting gameplay.<br>
+🏆 Leaderboards & Achievements: Compete globally and earn bragging rights.<br>
+🎵 Dynamic Soundtrack: Immerse yourself in the game's energetic music.<br>
